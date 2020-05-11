@@ -1,6 +1,6 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-08 17:09:47" Modified_Date="2020-05-11 17:17:40" Creator="Martin" Comments="" ID="33d35e9292637404dd16e4196785136c">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-08 17:09:47" Modified_Date="2020-05-11 17:43:58" Creator="Martin" Comments="" ID="cb1990b5a2b7f315b9a505bbd30534a6">
   <Library_General_Settings>
-    <Package_File_Name>MNProjects_lib_Monitored_Actor</Package_File_Name>
+    <Package_File_Name>MNProjects_lib_Panel_Manager</Package_File_Name>
     <Library_Version>3.1.1.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
@@ -561,7 +561,7 @@ Be sure to change the inheritance of your classes to the provided classes within
         <Path>Panel Actor</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>60B394181A683EAC6688C9FF94DA717D</GUID>
+      <GUID>1B388B0597E2DDE17AC256891480C5AC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -582,7 +582,7 @@ Be sure to change the inheritance of your classes to the provided classes within
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <GUID>3A694DA58FE1041CA831DE11BA2B0365</GUID>
+      <GUID>DAF7ACB3C480AECF33427D6EFA862104</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -701,7 +701,7 @@ Be sure to change the inheritance of your classes to the provided classes within
         <Path>panel-actors\Source\Panel Actor Messages\Change Panel Msg\Send Change Panel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>62CAA77C3E9242DF550BE893C95916CB</GUID>
+      <GUID>E57843AB3C152A18AA66065466EF492D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
