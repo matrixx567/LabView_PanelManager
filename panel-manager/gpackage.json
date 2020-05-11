@@ -1,0 +1,27 @@
+{
+	"author": {
+		"email": "support@mooregoodideas.com",
+		"name": "Moore Good Ideas, Inc",
+		"url": "https://www.mooregoodideas.com"
+	},
+	"bugs": "https://gitlab.com/mgi/gpm-packages/panel-manager/issues",
+	"contributors": [
+		{
+			"email": "derek@mooregoodideas.com",
+			"name": "Derek Trepanier",
+			"url": "https://www.mooregoodideas.com/"
+		}
+	],
+	"description": "A framework to manage VI front panels",
+	"files": [
+		"Source/"
+	],
+	"keywords": [
+		"subpanel"
+	],
+	"license": "BSD-3-Clause",
+	"lvversion": ">=17",
+	"name": "@mgi/panel-manager",
+	"repository": "https://gitlab.com/mgi/gpm-packages/panel-manager",
+	"version": "2.0.2"
+}

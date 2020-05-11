@@ -1,0 +1,34 @@
+{
+	"author": {
+		"email": "support@mooregoodideas.com",
+		"name": "Moore Good Ideas, Inc",
+		"url": "https://www.mooregoodideas.com"
+	},
+	"bugs": "https://gitlab.com/mgi/gpm-packages/panel-actors\\issues",
+	"contributors": [
+		{
+			"email": "derek@mooregoodideas.com",
+			"name": "Derek Trepanier",
+			"url": "https://www.mooregoodideas.com/"
+		}
+	],
+	"dependencies": {
+		"@mgi/monitored-actor-core": "^3.0.2",
+		"@mgi/panel-manager": "^2.0.0"
+	},
+	"description": "An Actor Framework implementation of MGI's Panel Manager Framework",
+	"devDependencies": {
+		"@mgi/monitored-actor": "^3.0.1"
+	},
+	"files": [
+		"Source/"
+	],
+	"keywords": [
+		"UI"
+	],
+	"license": "BSD-3-Clause",
+	"lvversion": ">=17",
+	"name": "@mgi/panel-actors",
+	"repository": "https://gitlab.com/mgi/gpm-packages/panel-actors",
+	"version": "3.1.1"
+}
