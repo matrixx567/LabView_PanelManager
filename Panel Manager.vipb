@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-08 17:09:47" Modified_Date="2020-05-11 08:39:07" Creator="Martin" Comments="" ID="ec360076a89a05b13ee6b9ba26cf3095">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-08 17:09:47" Modified_Date="2020-05-11 08:44:24" Creator="Martin" Comments="" ID="bd241e4bfc87b18b44b7c5ef93d58358">
   <Library_General_Settings>
     <Package_File_Name>MNProjects_lib_Monitored_Actor</Package_File_Name>
     <Library_Version>3.1.1.2</Library_Version>
@@ -171,6 +171,12 @@ Be sure to change the inheritance of your classes to the provided classes within
       <Destination_Overrides>
         <Path>examples/Panel Manager</Path>
         <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>help/MGI Panel Manager.vi</Path>
+        <Destination>4</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
