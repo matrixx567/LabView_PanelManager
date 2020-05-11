@@ -19,7 +19,7 @@ Checkout the examples and our website for more info!
 
 ---
 
-MGI currently works with the GPM Package Manager and decided to stop the support for VIPM. This package is based on the GPM packages of the MGI Panel. It also add the support of the previously published examples.
+MGI currently works with the GPM Package Manager and decided to stop the support for VIPM. This package is based on the GPM packages of the MGI Panel. It also adds the support of the previously published examples.
 
 https://gpackage.io/packages/@mgi/panel-manager  
 https://gitlab.com/mgi/gpm-packages/panel-manager  
