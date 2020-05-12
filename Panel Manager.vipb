@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-08 17:09:47" Modified_Date="2020-05-12 19:15:37" Creator="Martin" Comments="" ID="f1dc9a367f1ae2bc649d0a8b8b9469fc">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-08 17:09:47" Modified_Date="2020-05-12 19:26:58" Creator="Martin" Comments="" ID="cd531b4a391a306a4078dfc25d82ca96">
   <Library_General_Settings>
     <Package_File_Name>MNProjects_lib_Panel_Manager</Package_File_Name>
-    <Library_Version>3.1.1.4</Library_Version>
+    <Library_Version>3.1.1.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -561,7 +561,7 @@ Be sure to change the inheritance of your classes to the provided classes within
         <Path>Panel Actor</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2412F49C0E664F50190D32818B555704</GUID>
+      <GUID>5DB49BCDA9043B1D7EC5A3E911C8BD92</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -582,7 +582,7 @@ Be sure to change the inheritance of your classes to the provided classes within
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <GUID>9E7185DCE36DEA55951D6AF88C70D488</GUID>
+      <GUID>261B7E348C7B5B053457232E60027C82</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -650,7 +650,7 @@ Be sure to change the inheritance of your classes to the provided classes within
         <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Panel Actor Event Loop.vi</NameSub_Menu_Name>
         <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
+        <is_Merge_VI>true</is_Merge_VI>
         <Position>
           <Row>1</Row>
           <Column>4</Column>
@@ -701,7 +701,7 @@ Be sure to change the inheritance of your classes to the provided classes within
         <Path>panel-actors\Source\Panel Actor Messages\Change Panel Msg\Send Change Panel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7804B86A6D140DDD6580C983D3D64B0E</GUID>
+      <GUID>FD91A9DA83A5E0C96DE90EF4FD477B64</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
